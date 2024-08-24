@@ -1,11 +1,5 @@
 
 # StudyNotion - EdTech Platform
-:rocket: [Link to website][https://studynotion-frontend.vercel.app/]
-
-
-![Main Page](images/mainpage.png)
-StudyNotion is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -127,7 +121,7 @@ For detailed API documentation and endpoints, refer to the [API Documentation](/
 2. Open a new terminal and navigate to the `client` directory: `cd client`
 3. Start the React development server: `npm start`
 
-Access the application in your browser at `http://localhost:3000`.
+
 
 
 
